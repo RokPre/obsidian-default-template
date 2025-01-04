@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-defualt-template",
+	"name": "Default template",
+	"version": "0.1",
+	"minAppVersion": "1.0.0",
+	"description": "New notes get a default template",
+	"author": "RokPre",
+	"authorUrl": "https://github.com/RokPre",
+	"isDesktopOnly": false
+}

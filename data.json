@@ -1,0 +1,6 @@
+{
+  "templatePath": "template/NewNote - template.md",
+  "useTemplater": true,
+  "snippetsEnabled": true,
+  "snippetsFileLocation": "template/NewNote - template.md"
+}
